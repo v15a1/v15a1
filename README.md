@@ -1,5 +1,7 @@
 ### Hello there! The name's Visal (Vi•suh•l). I am an iOS Developer
 
+<a href="https://stackoverflow.com/users/10883380/visal-rajapakse"><img src="https://img.shields.io/badge/Stack%20Overflow-809-F47F24"></a>
+
 <!--
 **v15a1/v15a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
