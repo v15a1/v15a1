@@ -1,5 +1,4 @@
-### Hello there! The name's Visal (Vi•suh•l)
-I'm a CS undergraduate, hustling with Swift, to become an iOS Developer
+### Hello there! The name's Visal (Vi•suh•l). I am an iOS Developer
 
 <!--
 **v15a1/v15a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
