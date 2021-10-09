@@ -2,7 +2,7 @@
 
 iOS developer... 
 
-<a href="https://stackoverflow.com/users/10883380/visal-rajapakse"><img src="https://stackoverflow.com/users/flair/10883380.png?theme=dark" width="208" height="58" alt="profile for Visal Rajapakse at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Visal Rajapakse at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/10883380/visal-rajapakse" target="_blank"><img src="https://stackoverflow.com/users/flair/10883380.png?theme=dark" width="208" height="58" alt="profile for Visal Rajapakse at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Visal Rajapakse at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
 **v15a1/v15a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
