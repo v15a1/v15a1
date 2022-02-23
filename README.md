@@ -1,6 +1,6 @@
 ### Hello there! The name's Visal (Vi•suh•l).
 
-iOS developer... 
+iOS developer in the making... 
 
 <a href="https://stackoverflow.com/users/10883380/visal-rajapakse" target="_blank"><img src="https://stackoverflow.com/users/flair/10883380.png?theme=dark" width="208" height="58" alt="profile for Visal Rajapakse at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Visal Rajapakse at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
