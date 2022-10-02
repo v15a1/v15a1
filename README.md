@@ -1,4 +1,4 @@
-### Hello there! The name's Visal (Vi•suh•l).
+### Hello there! The name's Visal (Vi•sah•l).
 
 iOS developer @[Circles.life](https://www.circlesglobal.com/)
 
