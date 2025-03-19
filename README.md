@@ -1,6 +1,12 @@
 ### Hello there! The name's Visal (Vi•sah•l).
 
-iOS developer @[Circles.life](https://www.circlesglobal.com/)
+I make things on iOS when I'm bored :D.
+
+
+* iOS developer @[PickMe](https://pickme.lk)
+* Ex-[Circles.life](https://www.circlesglobal.com/)
+
+
 
 <a href="https://stackoverflow.com/users/10883380/visal-rajapakse" target="_blank"><img src="https://stackoverflow.com/users/flair/10883380.png?theme=dark" width="208" height="58" alt="profile for Visal Rajapakse at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Visal Rajapakse at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
