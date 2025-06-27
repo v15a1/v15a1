@@ -2,8 +2,8 @@
 
 I make things on iOS when I'm bored :D.
 
-
-* iOS developer @[PickMe](https://pickme.lk)
+* Software Engineer (Mobile) @[WSO2](https://wso2.com/)
+* Ex-[PickMe](https://pickme.lk)
 * Ex-[Circles.life](https://www.circlesglobal.com/)
 
 
